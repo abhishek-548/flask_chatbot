@@ -34,22 +34,13 @@ And to get covid-19 statistics  across world just click the world icon present i
   2. Added a Login page so that no random player can report.
   3. We made our bot more smarter by adding more intents. 
 
-## Installation & References
-	
-	new XMLHttpRequest()
-[XMLHttpRequest](https://www.w3schools.com/xml/xml_http.asp) allows us to send HTTP requests easily.
-		
-	Bootstrap
-[bootstrap](https://getbootstrap.com/) is a web framework which has some predefined styles and grid system,we can use them if needed.
-		
-	Icons References
-[Icons](https://www.w3schools.com/icons/default.asp) we can select the required icon to use in our website.
-		
-	Google fonts
-[Fonts](https://fonts.google.com/) we can use select the font style for our website and embedd the style in our website to use them.
-
- Json
-[Fonts](https://fonts.google.com/) we can use this to convert string to dictionary and dictionary to string. 
+## Overall learning of this "Python for Engineers" course:
+  1. To use object oriented programming (Assignment - 1)
+  2. Learned HTML, CSS, Java Script from scratch (Assignment - 2)
+  3. Learned the usage of Flask in Python and using simuntaneously with HTML(Assignemnt - 3)
+  4. The Working of Regex, Chatter-bot, adding shortcut links to Python modules (Assignment - 4)
+  5. Integration of SQLITE3 Data base in python (Assignment - 5)
+  6. The most important concept "The Deployment" (Assignment - 3, 4, 5)
 
 ## Repl Link :
 
