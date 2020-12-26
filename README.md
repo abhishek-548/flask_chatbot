@@ -29,6 +29,11 @@ Or you can click on covid-bot to go to chatbot directly here you can talk to cha
 Once the chatbot is opened you can get covid-19 statistics across India by typing ex: StateName(Upper Camel Case),3(Here 3 refers to Total no.of people who are recovered).
 And to get covid-19 statistics  across world just click the world icon present in the left side of your page after clicking to get covid-19 statistics type: Country(Upper Camel Case),1(Here 1 refers to total no.of people who are infected in the country)
 
+## What's New:
+  1. Added a 10,000 players data base, so that randomly generated dosenot occur.
+  2. Added a Login page so that no random player can report.
+  3. We made our bot more smarter by adding more intents. 
+
 ## Installation & References
 	
 	new XMLHttpRequest()
